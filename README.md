@@ -52,7 +52,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=10&margin-h=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ayushsingh2021&theme=algolia&margin-w=10&margin-h=10"/>
 </p>
 
 ---
@@ -71,15 +71,15 @@
 
 ## 🌐 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
+<a href="www.linkedin.com/in/ayush-singh-257a6328b" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
 <a href="mailto:ayushsingh202021@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" /></a>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" /></a>
+<a href="https://github.com/ayushsingh2021"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ayushsingh2021&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
