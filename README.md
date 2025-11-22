@@ -42,7 +42,7 @@
 ---
 
 ## 🧠 Cyber Security Focus
-- 🔐 XSS, SQL Injection  
+- 🔐 XSS, SQL Injection, open redirect, otp bypass etc..
 - 🔐 CSRF, Authentication Bypass  
 - 🛠 Tools: Burp Suite, OWASP ZAP, Nmap, Dirsearch  
 - 🎯 Bug Reports:  
